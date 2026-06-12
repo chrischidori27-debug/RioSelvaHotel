@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 );
                 alert('Inicio de sesión exitoso');
                 window.location.href =
-                    'IndexProyectoIntegrador.html';
+                    'index.html';
             } else {
 
                 alert(
